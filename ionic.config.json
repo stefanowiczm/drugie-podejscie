@@ -1,0 +1,8 @@
+{
+  "name": "drugie-podejscie",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "d01be0d5"
+}
